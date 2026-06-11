@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606111855546O8ZEW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260611185554Y63DAA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Nuestras estrellas favoritas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Carmen Gálvez Molina</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Aprendizaje sobre texto periodístico: el reportaje. Producción de este tipo de texto.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781194213107</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1781106291004-3jx66vv5j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Antes de empezar...</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de empezar...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781106291004-3jx66vv5j</odePageId>
+      <odeBlockId>block-1781106512748-ev397wr35</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781106291004-3jx66vv5j</odePageId>
+          <odeBlockId>block-1781106512748-ev397wr35</odeBlockId>
+          <odeIdeviceId>idevice-1781106512747-i9ufxunbd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #236fa1;">Bienvenidos/as a la actividad: </span></p>
+<p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #f1c40f;">Nuestras estrellas favoritas</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781106512747-i9ufxunbd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Bienvenidos/as a la actividad: </span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #f1c40f;\">Nuestras estrellas favoritas</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781106291004-3jx66vv5j</odePageId>
+      <odeBlockId>block-1781107302364-tspdxsf0b</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781106291004-3jx66vv5j</odePageId>
+          <odeBlockId>block-1781107302364-tspdxsf0b</odeBlockId>
+          <odeIdeviceId>idevice-1780937976354-r8iq1e6my</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/Nuestrasestrellasintro.png" title="Alfombra Roja" width="1280" height="1280" alt="Alfombra roja y focos" />
+<figcaption class="figcaption"><span class="author">BoskoJr vía Canva</span>.</figcaption>
+</figure>
+<p><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Título:</strong> Nuestras estrellas favoritas.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Centro de interés o temática:</strong> El reportaje</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Nivel al que va dirigido:</strong> Tercer ciclo, alumnado de 5º/6º de primaria.</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Temporalización aproximada:</strong> 4 sesiones de una hora</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Materia o materias implicadas:</strong> Área transversal lingüística</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Idioma:</strong> Castellano</span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Descripción general:</strong> Se pretende que conozcáis las características de un tipo de texto periodístico: el reportaje. Y, además, que seáis capaces de elaborar vuestro propio texto periodístico en relación a un personaje famoso de vuestro interés. </span><br /><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;"><strong>Justificación:</strong> Vamos a trabajar esta temática basándonos en el currículo de Lengua Castellana y Literatura, ya que nos encontramos en la materia: Área Transversal Lingüística. Con esto, se busca reforzar competencias básicas en comprensión lectora, oral y escrita. A lo largo de las siguientes cuatro sesiones, haréis uso de las nuevas tecnologías, perfeccionando su aplicación y aprovechando todas las ventajas que os puedan ofrecer para mejorar la adquisición de las competencias clave, ya que son un elemento de gran motivación. Además, aprenderéis sobre el reportaje, podremos investigar sobre personas famosas de vuestro interés (cantantes, futbolistas…). Cuando hayamos recogido la información suficiente, crearéis vuestro propio producto final: un reportaje sobre la persona elegida.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937976354-r8iq1e6my","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/Nuestrasestrellasintro.png\" title=\"Alfombra Roja\" width=\"1280\" height=\"1280\" alt=\"Alfombra roja y focos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">BoskoJr vía Canva</span>.</figcaption>\n</figure>\n<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Título:</strong> Nuestras estrellas favoritas.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Centro de interés o temática:</strong> El reportaje</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Nivel al que va dirigido:</strong> Tercer ciclo, alumnado de 5º/6º de primaria.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Temporalización aproximada:</strong> 4 sesiones de una hora</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Materia o materias implicadas:</strong> Área transversal lingüística</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Idioma:</strong> Castellano</span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Descripción general:</strong> Se pretende que conozcáis las características de un tipo de texto periodístico: el reportaje. Y, además, que seáis capaces de elaborar vuestro propio texto periodístico en relación a un personaje famoso de vuestro interés. </span><br /><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\"><strong>Justificación:</strong> Vamos a trabajar esta temática basándonos en el currículo de Lengua Castellana y Literatura, ya que nos encontramos en la materia: Área Transversal Lingüística. Con esto, se busca reforzar competencias básicas en comprensión lectora, oral y escrita. A lo largo de las siguientes cuatro sesiones, haréis uso de las nuevas tecnologías, perfeccionando su aplicación y aprovechando todas las ventajas que os puedan ofrecer para mejorar la adquisición de las competencias clave, ya que son un elemento de gran motivación. Además, aprenderéis sobre el reportaje, podremos investigar sobre personas famosas de vuestro interés (cantantes, futbolistas…). Cuando hayamos recogido la información suficiente, crearéis vuestro propio producto final: un reportaje sobre la persona elegida.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781106365851-htukpak4a</odePageId>
+  <odeParentPageId>page-1781106291004-3jx66vv5j</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781106365851-htukpak4a</odePageId>
+      <odeBlockId>block-1781112469852-xvqkge5iu</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781106365851-htukpak4a</odePageId>
+          <odeBlockId>block-1781112469852-xvqkge5iu</odeBlockId>
+          <odeIdeviceId>idevice-1781112469849-f1lea2x95</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;" title="">A continuación se adjunta la <a href="https://canva.link/5rhcbdvdxolbw32" target="_blank" rel="noopener">guía didáctica</a> de la actividad para facilitar su desarrollo. En ella aparece una tabla en la que se relacionan: actividades, criterios de evaluación, temporalización de sesiones y agrupamientos. </span></p>
+<p><img src="{{context_path}}/content/resources/Guía Didáctica.png" alt="Guía Didáctica" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781112469849-f1lea2x95","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">A continuación se adjunta la <a href=\"https://canva.link/5rhcbdvdxolbw32\" target=\"_blank\" rel=\"noopener\">guía didáctica</a> de la actividad para facilitar su desarrollo. En ella aparece una tabla en la que se relacionan: actividades, criterios de evaluación, temporalización de sesiones y agrupamientos. </span></p>\n<p><img src=\"{{context_path}}/content/resources/Guía Didáctica.png\" alt=\"Guía Didáctica\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781113813048-cjnnwzaxe</odePageId>
+  <odeParentPageId>page-1781106365851-htukpak4a</odeParentPageId>
+  <pageName>Línea temporal de actividades</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781113813048-cjnnwzaxe</odePageId>
+      <odeBlockId>block-1781113820093-icb7jffn1</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781113813048-cjnnwzaxe</odePageId>
+          <odeBlockId>block-1781113820093-icb7jffn1</odeBlockId>
+          <odeIdeviceId>idevice-1781113820091-kr2x6pfgg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;" title="">A continuación se adjunta una <a href="https://canva.link/gv78ntjogzw09af">línea temporal</a>, de forma más visual, con el desarrollo de las actividades presentadas en el apartado anterior.</span></p>
+<p><img src="{{context_path}}/content/resources/Mapa mental nuestras estrellas favoritas.png" width="1536" height="864" alt="Línea temporal: nuestras estrellas favoritas" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781113820091-kr2x6pfgg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">A continuación se adjunta una <a href=\"https://canva.link/gv78ntjogzw09af\">línea temporal</a>, de forma más visual, con el desarrollo de las actividades presentadas en el apartado anterior.</span></p>\n<p><img src=\"{{context_path}}/content/resources/Mapa mental nuestras estrellas favoritas.png\" width=\"1536\" height=\"864\" alt=\"Línea temporal: nuestras estrellas favoritas\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781102947779-dcwcunjj6</odePageId>
+  <odeParentPageId>page-1781106291004-3jx66vv5j</odeParentPageId>
+  <pageName>Información de interés para periodistas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información de interés para periodistas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781102947779-dcwcunjj6</odePageId>
+      <odeBlockId>block-1781103007100-1004r33nt</odeBlockId>
+      <blockName></blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781102947779-dcwcunjj6</odePageId>
+          <odeBlockId>block-1781103007100-1004r33nt</odeBlockId>
+          <odeIdeviceId>idevice-1781103007098-taaog6qk8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt; font-family: 'comic sans ms', sans-serif;">Cuando elaboréis vuestro reportaje, como periodistas profesionales, es primordial que tengáis en cuenta los aspectos recogidos en la siguiente imagen. Será necesario cumplir con todos estos aspectos de la protección de datos para superar la tarea.</span><img src="{{context_path}}/content/resources/InfografíaTarea2.3.png" title="Infografía " width="800" height="2000" alt="Infografía sobre el buen uso de la información y los datos" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781103007098-taaog6qk8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Cuando elaboréis vuestro reportaje, como periodistas profesionales, es primordial que tengáis en cuenta los aspectos recogidos en la siguiente imagen. Será necesario cumplir con todos estos aspectos de la protección de datos para superar la tarea.</span><img src=\"{{context_path}}/content/resources/InfografíaTarea2.3.png\" title=\"Infografía \" width=\"800\" height=\"2000\" alt=\"Infografía sobre el buen uso de la información y los datos\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781196808079-iwtqwj0in</odePageId>
+  <odeParentPageId>page-1781106291004-3jx66vv5j</odeParentPageId>
+  <pageName>Herramientas para gestión del aula</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para gestión del aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas para gestión del aula</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781196808079-iwtqwj0in</odePageId>
+      <odeBlockId>block-1781196895542-6no7el0hn</odeBlockId>
+      <blockName></blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781196808079-iwtqwj0in</odePageId>
+          <odeBlockId>block-1781196895542-6no7el0hn</odeBlockId>
+          <odeIdeviceId>idevice-1781196895542-68ca69yaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/llri755qjfzti6o2" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781196895542-68ca69yaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/llri755qjfzti6o2\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>b63c5782-de38-4108-9f17-9d018f16debb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>b63c5782-de38-4108-9f17-9d018f16debb</odePageId>
+      <odeBlockId>block-1781107338145-tdowbqwtr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>b63c5782-de38-4108-9f17-9d018f16debb</odePageId>
+          <odeBlockId>block-1781107338145-tdowbqwtr</odeBlockId>
+          <odeIdeviceId>idevice-1781107338143-f261lznaq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #236fa1;">Sesión 1</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781107338143-f261lznaq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #236fa1;\">Sesión 1</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780936965067-hmhu11r89</odePageId>
+  <odeParentPageId>b63c5782-de38-4108-9f17-9d018f16debb</odeParentPageId>
+  <pageName>¡Nos convertimos en periodistas!</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Nos convertimos en periodistas!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780936965067-hmhu11r89</odePageId>
+      <odeBlockId>block-1781103990355-cf7nxxgoi</odeBlockId>
+      <blockName></blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936965067-hmhu11r89</odePageId>
+          <odeBlockId>block-1781103990355-cf7nxxgoi</odeBlockId>
+          <odeIdeviceId>idevice-1781103990336-6udhesbol</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #3598db; font-size: 24pt; font-family: 'comic sans ms', sans-serif;">Técnica cooperativa: Folio giratorio</span></p>
+<div class="exe-fx exe-accordion">
+<h2><span style="font-family: 'comic sans ms', sans-serif;">Primer paso</span></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Observa los <span style="color: #e03e2d;">vídeos </span>que nos explican sus características (a la izquierda en la <span style="color: #e03e2d;">parte roja)</span> y accede los diversos <span style="color: #236fa1;">reportajes </span>que se adjuntan (<span style="color: #236fa1;">parte azu</span>l a la derecha), fíjate bien en cómo están organizados, qué apartados tienen, qué elementos podemos incluir (fotos, vídeos, imágenes...).</span></p>
+<p style="text-align: center;"><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/nuestro-reportaje"></iframe></p>
+<p><br /></p>
+<h2><span style="font-family: 'comic sans ms', sans-serif;">Segundo paso</span></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Coge un trozo de papel, escribe una característica que te haya parecido interesante sobre los reportajes que has aprendido. Por ejemplo: tienen título, tienen foto, dan información sobre un tema...</span></p>
+<h2><span style="font-family: 'comic sans ms', sans-serif;">Tercer paso</span></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Comparte lo que has escrito con tus compañeros y haz una puesta en común sobre lo que pensáis. Primero con tu equipo y después con el resto de la clase. </span></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781103990336-6udhesbol","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #3598db; font-size: 24pt; font-family: 'comic sans ms', sans-serif;\">Técnica cooperativa: Folio giratorio</span></p>\n<div class=\"exe-fx exe-accordion\">\n<h2><span style=\"font-family: 'comic sans ms', sans-serif;\">Primer paso</span></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Observa los <span style=\"color: #e03e2d;\">vídeos </span>que nos explican sus características (a la izquierda en la <span style=\"color: #e03e2d;\">parte roja)</span> y accede los diversos <span style=\"color: #236fa1;\">reportajes </span>que se adjuntan (<span style=\"color: #236fa1;\">parte azu</span>l a la derecha), fíjate bien en cómo están organizados, qué apartados tienen, qué elementos podemos incluir (fotos, vídeos, imágenes...).</span></p>\n<p style=\"text-align: center;\"><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/nuestro-reportaje\"></iframe></p>\n<p><br /></p>\n<h2><span style=\"font-family: 'comic sans ms', sans-serif;\">Segundo paso</span></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Coge un trozo de papel, escribe una característica que te haya parecido interesante sobre los reportajes que has aprendido. Por ejemplo: tienen título, tienen foto, dan información sobre un tema...</span></p>\n<h2><span style=\"font-family: 'comic sans ms', sans-serif;\">Tercer paso</span></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Comparte lo que has escrito con tus compañeros y haz una puesta en común sobre lo que pensáis. Primero con tu equipo y después con el resto de la clase. </span></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936965067-hmhu11r89</odePageId>
+      <odeBlockId>block-1781192003944-y3u0zqoqk</odeBlockId>
+      <blockName>Ordena la lista</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936965067-hmhu11r89</odePageId>
+          <odeBlockId>block-1781192003944-y3u0zqoqk</odeBlockId>
+          <odeIdeviceId>idevice-1781192003943-in7td36cv</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1781192003943-in7td36cv" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1781192003943-in7td36cv" data-evaluationb="false" data-evaluationid="64496b57-23a7-461b-b0f8-3684cc367b9d"></div>
+    <div class="exe-sortableList-instructions"><p><span style="font-family: 'comic sans ms', sans-serif;">Ordena las partes de un reportaje para saber cómo se organiza, según lo aprendido.</span></p></div>
+    <ul class="exe-sortableList-list"><li>Título</li><li>Sutítulo</li><li>Entrada</li><li>Cuerpo</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">¡Correcto!</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"></div>
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Ordena las partes de un reportaje para saber cómo se organiza, según lo aprendido.</span></p>","textAfter":"","afterElement":"","options":["Título","Sutítulo","Entrada","Cuerpo"],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"64496b57-23a7-461b-b0f8-3684cc367b9d","main":"slidevice-1781192003943-in7td36cv","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1781192003943-in7td36cv"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780936996967-75lfb3rfw</odePageId>
+  <odeParentPageId>b63c5782-de38-4108-9f17-9d018f16debb</odeParentPageId>
+  <pageName>Elegimos personaje y pensamos ideas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elegimos personaje y pensamos ideas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elegimos personaje y pensamos ideas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780936996967-75lfb3rfw</odePageId>
+      <odeBlockId>block-1781105333227-hilg79ehm</odeBlockId>
+      <blockName></blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936996967-75lfb3rfw</odePageId>
+          <odeBlockId>block-1781105333227-hilg79ehm</odeBlockId>
+          <odeIdeviceId>idevice-1781105333226-8vuujcyq1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">Ahora en equipo debéis<strong> proponer ideas</strong> sobre qué profesión elegís para buscar al famoso/a sobre el que queréis investigar. Para romper el hielo, en la siguiente imagen encontraréis algunas ideas. ¿Se os ocurre alguna más?</span></p>
+<p><img src="{{context_path}}/content/resources/Nuestras estrellas pueden ser....png" width="1536" height="864" alt="Ideas sobre profesiones a elegir" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781105333226-8vuujcyq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\">Ahora en equipo debéis<strong> proponer ideas</strong> sobre qué profesión elegís para buscar al famoso/a sobre el que queréis investigar. Para romper el hielo, en la siguiente imagen encontraréis algunas ideas. ¿Se os ocurre alguna más?</span></p>\n<p><img src=\"{{context_path}}/content/resources/Nuestras estrellas pueden ser....png\" width=\"1536\" height=\"864\" alt=\"Ideas sobre profesiones a elegir\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780936996967-75lfb3rfw</odePageId>
+      <odeBlockId>block-1781105187533-em9mmv1rd</odeBlockId>
+      <blockName>Responde:</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780936996967-75lfb3rfw</odePageId>
+          <odeBlockId>block-1781105187533-em9mmv1rd</odeBlockId>
+          <odeIdeviceId>idevice-1781105187532-g47xwaero</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1781105187532-g47xwaero" data-evaluationb="false" data-evaluationid="64496b57-23a7-461b-b0f8-3684cc367b9d"></div>
+            <div id="frmMainContainer-idevice-1781105187532-g47xwaero" class="form-IDevice" data-id="idevice-1781105187532-g47xwaero">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">A continuación, debéis escribir sobre qué personajes famosos queréis investigar. Debéis escribir su profesión en el siguiente apartado.</span></p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1781105187532-g47xwaero">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1781105187532-g47xwaero" style="display:none;">
+                      <button  id="frmStartGame-idevice-1781105187532-g47xwaero" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1781105187532-g47xwaero" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1781105187532-g47xwaero" > </div>
+                        <div id="frmCover-idevice-1781105187532-g47xwaero" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1781105187532-g47xwaero" class="form-results-container inline">
+                        <div id="form-score-idevice-1781105187532-g47xwaero" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1781105187532-g47xwaero" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1781105187532-g47xwaero" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1781105187532-g47xwaero" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1781105187532-g47xwaero" type="button" value="Reiniciar"
+                            data-id="idevice-1781105187532-g47xwaero" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1781105187532-g47xwaero" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1781105187532-g47xwaero" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1781105187532-g47xwaero" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781105187532-g47xwaero","evaluation":false,"evaluationID":"64496b57-23a7-461b-b0f8-3684cc367b9d","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1781105187532-g47xwaero","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\">A continuación, debéis escribir sobre qué personajes famosos queréis investigar. Debéis escribir su profesión en el siguiente apartado.</span></p>","questionsData":[{"id":"1781105307739-UJPBC","activityType":"fill","baseText":"<p><span style=\"font-size: 14pt; font-family: 'comic sans ms', sans-serif;\">Famosos que hemos elegido: </span></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1781106883057-8LNFG","activityType":"fill","baseText":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Elegid </strong>qué t<strong>res preguntas</strong> queréis responder con vuestro reportaje. Pensad en qué información puede ser interesante saber sobre la persona con la que vais a trabajar. <strong>Escribidlas</strong> a continuación.</span></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937007032-6xi7c9spp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937007032-6xi7c9spp</odePageId>
+      <odeBlockId>block-1781107384644-6b485zyzi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937007032-6xi7c9spp</odePageId>
+          <odeBlockId>block-1781107384644-6b485zyzi</odeBlockId>
+          <odeIdeviceId>idevice-1781107384643-otczhm2jl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #2dc26b;">Sesión 2</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781107384643-otczhm2jl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #2dc26b;\">Sesión 2</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937022053-rl72cdb8g</odePageId>
+  <odeParentPageId>page-1780937007032-6xi7c9spp</odeParentPageId>
+  <pageName>Buscamos y seleccionamos información</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Buscamos y seleccionamos información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Buscamos y seleccionamos información</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937022053-rl72cdb8g</odePageId>
+      <odeBlockId>block-1781107538620-cbidh7iii</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937022053-rl72cdb8g</odePageId>
+          <odeBlockId>block-1781107538620-cbidh7iii</odeBlockId>
+          <odeIdeviceId>idevice-1781107538619-5qpeiadv6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">Con ayuda de los portátiles, usaremos el buscador de Google incluido en el siguiente <a href="https://www.symbaloo.com/mix/nuestro-reportaje" title="">Symbaloo</a>, para <strong>buscar información</strong> relevante sobre el personaje elegido, deberéis <strong>rellenar </strong>los diferentes <strong>apartados </strong>con la información que consideréis oportuna. Debéis tener en cuenta los consejos sobre el tratamiento de la información que se dieron al inicio de esta actividad. Usad la <strong>plantilla</strong>, como la que se muestra a continuación:</span></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/ficha de datos.png" width="1414" height="2000" alt="Ficha de datos relevantes" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781107538619-5qpeiadv6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Individual","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Con ayuda de los portátiles, usaremos el buscador de Google incluido en el siguiente <a href=\"https://www.symbaloo.com/mix/nuestro-reportaje\" title=\"\">Symbaloo</a>, para <strong>buscar información</strong> relevante sobre el personaje elegido, deberéis <strong>rellenar </strong>los diferentes <strong>apartados </strong>con la información que consideréis oportuna. Debéis tener en cuenta los consejos sobre el tratamiento de la información que se dieron al inicio de esta actividad. Usad la <strong>plantilla</strong>, como la que se muestra a continuación:</span></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ficha de datos.png\" width=\"1414\" height=\"2000\" alt=\"Ficha de datos relevantes\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937038389-qneevi995</odePageId>
+  <odeParentPageId>page-1780937007032-6xi7c9spp</odeParentPageId>
+  <pageName>Seleccionamos el formato</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seleccionamos el formato</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seleccionamos el formato</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937038389-qneevi995</odePageId>
+      <odeBlockId>block-1781108725818-3gj984k1a</odeBlockId>
+      <blockName></blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937038389-qneevi995</odePageId>
+          <odeBlockId>block-1781108725818-3gj984k1a</odeBlockId>
+          <odeIdeviceId>idevice-1781108725814-xb42j06c0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/joshuaworoniecki-laptop-5673901_1920.jpg" width="1536" height="1027" alt="Buscamos información y seleccionamos formato" />
+<figcaption class="figcaption"><span class="title"><em>JoshuaWoroniecki en Pixabay.</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781108725814-xb42j06c0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/joshuaworoniecki-laptop-5673901_1920.jpg\" width=\"1536\" height=\"1027\" alt=\"Buscamos información y seleccionamos formato\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>JoshuaWoroniecki en Pixabay.</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780937038389-qneevi995</odePageId>
+      <odeBlockId>block-1781108252190-h3apr7rqc</odeBlockId>
+      <blockName>Seleccionamos el formato</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937038389-qneevi995</odePageId>
+          <odeBlockId>block-1781108252190-h3apr7rqc</odeBlockId>
+          <odeIdeviceId>idevice-1781108252187-6eyaikikx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<div class="exe-fx exe-accordion">
+<h2><span style="font-family: 'comic sans ms', sans-serif;">Primer paso</span></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Ahora es el momento de acceder a la App con la que vamos a elaborar nuestro reportaje: CANVA. Si lo necesitas, podemos recordar algunos elementos relevantes sobre cómo usar esta App en los siguientes vídeos: </span></p>
+<p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;"> </span><iframe width="560" height="315" src="https://www.youtube.com/embed/2H5tdtHBuQQ?si=xNEXePNmswFceXyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/MpPPlejIIhs?si=Rxq7Ak7hQ7_l-Kt_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<h2><span style="font-family: 'comic sans ms', sans-serif;">Segundo paso</span></h2>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Cuando hayas iniciado sesión, <strong>crea </strong>un nuevo <strong>documento </strong>y <strong>elige </strong>la <strong>plantilla </strong>que más te guste y se adapte a lo que quieres presentar en tu producto final. </span></p>
+</div>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781108252187-6eyaikikx","textInfoDurationInput":"","textInfoDurationTextInput":"20 minutos","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Individual","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<div class=\"exe-fx exe-accordion\">\n<h2><span style=\"font-family: 'comic sans ms', sans-serif;\">Primer paso</span></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Ahora es el momento de acceder a la App con la que vamos a elaborar nuestro reportaje: CANVA. Si lo necesitas, podemos recordar algunos elementos relevantes sobre cómo usar esta App en los siguientes vídeos: </span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"> </span><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2H5tdtHBuQQ?si=xNEXePNmswFceXyu\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MpPPlejIIhs?si=Rxq7Ak7hQ7_l-Kt_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h2><span style=\"font-family: 'comic sans ms', sans-serif;\">Segundo paso</span></h2>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Cuando hayas iniciado sesión, <strong>crea </strong>un nuevo <strong>documento </strong>y <strong>elige </strong>la <strong>plantilla </strong>que más te guste y se adapte a lo que quieres presentar en tu producto final. </span></p>\n</div>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937065393-vqa00mbbm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937065393-vqa00mbbm</odePageId>
+      <odeBlockId>block-1781109005722-8bm5b5mzm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937065393-vqa00mbbm</odePageId>
+          <odeBlockId>block-1781109005722-8bm5b5mzm</odeBlockId>
+          <odeIdeviceId>idevice-1781109005720-ghni6ug5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #843fa1;">Sesión 3</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781109005720-ghni6ug5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #843fa1;\">Sesión 3</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937096113-4lsbj6uhl</odePageId>
+  <odeParentPageId>page-1780937065393-vqa00mbbm</odeParentPageId>
+  <pageName>Redactamos y maquetamos nuestro trabajo</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Redactamos y maquetamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Redactamos y maquetamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937096113-4lsbj6uhl</odePageId>
+      <odeBlockId>block-1781109325152-4nn9bihvw</odeBlockId>
+      <blockName>Trabajo en canva</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937096113-4lsbj6uhl</odePageId>
+          <odeBlockId>block-1781109325152-4nn9bihvw</odeBlockId>
+          <odeIdeviceId>idevice-1781109325151-orr1u08qu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;"><strong>Abre canva </strong>y ve a la <strong>plantilla </strong>creada en la sesión anterior.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"><strong>Completa </strong>con la información recopilada en la ficha de la sesión dos, maqueta, añade imágenes/fotos y organiza tu proyecto como mejor consideres. </span></p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/artapixel-media-3856203.png" width="1536" height="1136" alt="Archivos, vídeo, audio." />
+<figcaption class="figcaption"><span class="author"> Artapixel en Pixabay</span>.</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781109325151-orr1u08qu","textInfoDurationInput":"","textInfoDurationTextInput":"60 minutos","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Individual","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Abre canva </strong>y ve a la <strong>plantilla </strong>creada en la sesión anterior.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><strong>Completa </strong>con la información recopilada en la ficha de la sesión dos, maqueta, añade imágenes/fotos y organiza tu proyecto como mejor consideres. </span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/artapixel-media-3856203.png\" width=\"1536\" height=\"1136\" alt=\"Archivos, vídeo, audio.\" />\n<figcaption class=\"figcaption\"><span class=\"author\"> Artapixel en Pixabay</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937101873-b2cu11imj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937101873-b2cu11imj</odePageId>
+      <odeBlockId>block-1781110730752-zcxn1gfcz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937101873-b2cu11imj</odePageId>
+          <odeBlockId>block-1781110730752-zcxn1gfcz</odeBlockId>
+          <odeIdeviceId>idevice-1781110730745-31dstsy4f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #e67e23;">Sesión 4</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781110730745-31dstsy4f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #e67e23;\">Sesión 4</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937120003-yozox7ft7</odePageId>
+  <odeParentPageId>page-1780937101873-b2cu11imj</odeParentPageId>
+  <pageName>Nuestro periódico digital</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro periódico digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937120003-yozox7ft7</odePageId>
+      <odeBlockId>block-1781110860642-v3390v05w</odeBlockId>
+      <blockName>Accedemos a Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937120003-yozox7ft7</odePageId>
+          <odeBlockId>block-1781110860642-v3390v05w</odeBlockId>
+          <odeIdeviceId>idevice-1781110860640-bkykquax1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><span style="font-family: 'comic sans ms', sans-serif;">Accedemos a este Padlet. En esta plataforma, subiremos nuestro producto final, acabado en la sesión anterior. Después, echaremos un vistazo a los reportajes de los compañeros para ver cómo han quedado.</span></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ox52m41t9dtisjk" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Ayuda para usar PADLET" data-text-a="Ayuda para usar PADLET" data-text-b="Ayuda para usar PADLET"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Si lo necesitas, puedes ver este tutorial sencillo sobre cómo usar esta App.</p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/4Kil6gspE9w?si=i_g2mD8ND8GCule3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781110860640-bkykquax1","textInfoDurationInput":"","textInfoDurationTextInput":"25 minutos","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><p><span style=\"font-family: 'comic sans ms', sans-serif;\">Accedemos a este Padlet. En esta plataforma, subiremos nuestro producto final, acabado en la sesión anterior. Después, echaremos un vistazo a los reportajes de los compañeros para ver cómo han quedado.</span></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ox52m41t9dtisjk\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Ayuda para usar PADLET\" data-text-a=\"Ayuda para usar PADLET\" data-text-b=\"Ayuda para usar PADLET\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Si lo necesitas, puedes ver este tutorial sencillo sobre cómo usar esta App.</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4Kil6gspE9w?si=i_g2mD8ND8GCule3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p></div></div>","textFeedbackInput":"Ayuda para usar PADLET","textFeedbackTextarea":"<p>Si lo necesitas, puedes ver este tutorial sencillo sobre cómo usar esta App.</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4Kil6gspE9w?si=i_g2mD8ND8GCule3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780937133023-z0r9de1e0</odePageId>
+  <odeParentPageId>page-1780937101873-b2cu11imj</odeParentPageId>
+  <pageName>Realizamos la coevaluación final</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Realizamos la coevaluación final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Realizamos la coevaluación final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780937133023-z0r9de1e0</odePageId>
+      <odeBlockId>block-1781111714366-jq1ycf7zs</odeBlockId>
+      <blockName>Dos estrellas y un deseo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780937133023-z0r9de1e0</odePageId>
+          <odeBlockId>block-1781111714366-jq1ycf7zs</odeBlockId>
+          <odeIdeviceId>idevice-1781111714360-9wqexmwan</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;" title="">En esta actividad, debéis <strong>valorar dos actividades de compañeros</strong> en <a href="https://padlet.com/mgalmol912/nuestro-periodico-digital-ox52m41t9dtisjk">Padlet</a>. Para realizarlo tendréis que usar la técnica: Dos estrellas y un deseo. Las <strong>estrellas </strong>serán <strong>dos cosas buenas</strong> o que te han gustado del reportaje y el <strong>deseo </strong>algo que te gustaría añadir, cambiar o <strong>mejorar</strong>.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¡Ojo! Debes usar un <span style="color: #e03e2d;">lenguaje asertivo y respetuoso.</span></span></p>
+<div class="exe-mind-map">
+<figure class="exe-figure exe-image position-center" style="width: 598px;"><img src="{{context_path}}/content/resources/blobid1.png" width="598" height="286" alt="Dos estrellas y un deseo" />
+<figcaption class="figcaption"><span class="title"><em>Dos estrellas y un deseo</em></span></figcaption>
+</figure>
+<p class="exe-mindmap-code">{"id":"99ae737a-a583-4af7-b9bc-e9adf3ef5415","title":"Dos estrellas y un deseo","mindmap":{"root":{"id":"8e92e947-554f-4f84-8049-b28a1d6418bb","parentId":null,"text":{"caption":"Dos estrellas y un deseo","font":{"style":"normal","weight":"bold","decoration":"none","size":20,"color":"#000000"}},"offset":{"x":0,"y":0},"foldChildren":false,"branchColor":"#000000","children":[{"id":"d6494e71-c967-455b-815c-9f469eb5c340","parentId":"8e92e947-554f-4f84-8049-b28a1d6418bb","text":{"caption":"Estrella: algo bueno sobre el trabajo.","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":-268,"y":-52.97499084472656},"foldChildren":false,"branchColor":"#1cbe1e","children":[]},{"id":"2879f3ce-f12f-4091-a04a-ac9abfcd4bb4","parentId":"8e92e947-554f-4f84-8049-b28a1d6418bb","text":{"caption":"Estrella: algo bueno sobre el trabajo.","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":167,"y":-49.99998474121094},"foldChildren":false,"branchColor":"#18a602","children":[]},{"id":"3d62b505-4a6b-4fd2-bc4c-e06984cca772","parentId":"8e92e947-554f-4f84-8049-b28a1d6418bb","text":{"caption":"Deseo: algo que cambiar o mejorar.","font":{"style":"normal","weight":"normal","decoration":"none","size":15,"color":"#000000"}},"offset":{"x":36,"y":93},"foldChildren":false,"branchColor":"#e6073f","children":[]}]}},"dates":{"created":1781111907561,"modified":1781112123672},"dimensions":{"x":4000,"y":2000},"autosave":false}</p>
+</div>
+<p>...</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781111714360-9wqexmwan","textInfoDurationInput":"","textInfoDurationTextInput":"35 minutos","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Parejas y gran grupo","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">En esta actividad, debéis <strong>valorar dos actividades de compañeros</strong> en <a href=\"https://padlet.com/mgalmol912/nuestro-periodico-digital-ox52m41t9dtisjk\">Padlet</a>. Para realizarlo tendréis que usar la técnica: Dos estrellas y un deseo. Las <strong>estrellas </strong>serán <strong>dos cosas buenas</strong> o que te han gustado del reportaje y el <strong>deseo </strong>algo que te gustaría añadir, cambiar o <strong>mejorar</strong>.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Ojo! Debes usar un <span style=\"color: #e03e2d;\">lenguaje asertivo y respetuoso.</span></span></p>\n<div class=\"exe-mind-map\">\n<figure class=\"exe-figure exe-image position-center\" style=\"width: 598px;\"><img src=\"{{context_path}}/content/resources/blobid1.png\" width=\"598\" height=\"286\" alt=\"Dos estrellas y un deseo\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Dos estrellas y un deseo</em></span></figcaption>\n</figure>\n<p class=\"exe-mindmap-code\">{\"id\":\"99ae737a-a583-4af7-b9bc-e9adf3ef5415\",\"title\":\"Dos estrellas y un deseo\",\"mindmap\":{\"root\":{\"id\":\"8e92e947-554f-4f84-8049-b28a1d6418bb\",\"parentId\":null,\"text\":{\"caption\":\"Dos estrellas y un deseo\",\"font\":{\"style\":\"normal\",\"weight\":\"bold\",\"decoration\":\"none\",\"size\":20,\"color\":\"#000000\"}},\"offset\":{\"x\":0,\"y\":0},\"foldChildren\":false,\"branchColor\":\"#000000\",\"children\":[{\"id\":\"d6494e71-c967-455b-815c-9f469eb5c340\",\"parentId\":\"8e92e947-554f-4f84-8049-b28a1d6418bb\",\"text\":{\"caption\":\"Estrella: algo bueno sobre el trabajo.\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":-268,\"y\":-52.97499084472656},\"foldChildren\":false,\"branchColor\":\"#1cbe1e\",\"children\":[]},{\"id\":\"2879f3ce-f12f-4091-a04a-ac9abfcd4bb4\",\"parentId\":\"8e92e947-554f-4f84-8049-b28a1d6418bb\",\"text\":{\"caption\":\"Estrella: algo bueno sobre el trabajo.\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":167,\"y\":-49.99998474121094},\"foldChildren\":false,\"branchColor\":\"#18a602\",\"children\":[]},{\"id\":\"3d62b505-4a6b-4fd2-bc4c-e06984cca772\",\"parentId\":\"8e92e947-554f-4f84-8049-b28a1d6418bb\",\"text\":{\"caption\":\"Deseo: algo que cambiar o mejorar.\",\"font\":{\"style\":\"normal\",\"weight\":\"normal\",\"decoration\":\"none\",\"size\":15,\"color\":\"#000000\"}},\"offset\":{\"x\":36,\"y\":93},\"foldChildren\":false,\"branchColor\":\"#e6073f\",\"children\":[]}]}},\"dates\":{\"created\":1781111907561,\"modified\":1781112123672},\"dimensions\":{\"x\":4000,\"y\":2000},\"autosave\":false}</p>\n</div>\n<p>...</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781112317501-w3rimnbra</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781112317501-w3rimnbra</odePageId>
+      <odeBlockId>block-1781192802801-vidv9rupd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781112317501-w3rimnbra</odePageId>
+          <odeBlockId>block-1781192802801-vidv9rupd</odeBlockId>
+          <odeIdeviceId>idevice-1781192802800-y5mf5a6nx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #34495e;">Evaluación</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781192802800-y5mf5a6nx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 36pt; font-family: 'comic sans ms', sans-serif; color: #34495e;\">Evaluación</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781112929047-hxm8nkpo7</odePageId>
+  <odeParentPageId>page-1781112317501-w3rimnbra</odeParentPageId>
+  <pageName>Evaluación del alumnado</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación del alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781112929047-hxm8nkpo7</odePageId>
+      <odeBlockId>block-1781113079165-g4kn4zotn</odeBlockId>
+      <blockName>Porfolio y rúbrica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781112929047-hxm8nkpo7</odePageId>
+          <odeBlockId>block-1781113079165-g4kn4zotn</odeBlockId>
+          <odeIdeviceId>idevice-1781113079160-u5f2vsmo9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/ikruemel-survey-7046888.jpg" width="1536" height="1025" alt="Evaluación" />
+<figcaption class="figcaption"><span class="author"> Nasim Nadjafi en Pixabay</span>.</figcaption>
+</figure>
+<p><span style="font-family: 'comic sans ms', sans-serif;" title="">Para evaluar la tarea. Analizaré vuestras producciones y productos finales recogidos en Padlet. En ellos valoraré los siguientes aspectos que se valoran en esta <a href="https://docs.google.com/document/d/1h016Yieek2TiXMSSq2YxQA__4WOCtF3v024j7m69hz0/edit?usp=sharing">rúbrica</a>. Según el grado de logro (niveles 1 al 5), obtendréis determinada puntuación numérica (de 0 a 10).</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781113079160-u5f2vsmo9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/ikruemel-survey-7046888.jpg\" width=\"1536\" height=\"1025\" alt=\"Evaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\"> Nasim Nadjafi en Pixabay</span>.</figcaption>\n</figure>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"\">Para evaluar la tarea. Analizaré vuestras producciones y productos finales recogidos en Padlet. En ellos valoraré los siguientes aspectos que se valoran en esta <a href=\"https://docs.google.com/document/d/1h016Yieek2TiXMSSq2YxQA__4WOCtF3v024j7m69hz0/edit?usp=sharing\">rúbrica</a>. Según el grado de logro (niveles 1 al 5), obtendréis determinada puntuación numérica (de 0 a 10).</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781112938896-h1rxfekfr</odePageId>
+  <odeParentPageId>page-1781112317501-w3rimnbra</odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781112938896-h1rxfekfr</odePageId>
+      <odeBlockId>block-1781113504684-q6qx942ss</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781112938896-h1rxfekfr</odePageId>
+          <odeBlockId>block-1781113504684-q6qx942ss</odeBlockId>
+          <odeIdeviceId>idevice-1781113504680-vmslq8x4r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;">Para finalizar, valoraré mi propia práctica docente a través del siguiente formulario. Así, al volcar los datos podré obtener información valiosa sobre qué aspectos es necesario revisar y modificar de cara a próximas tareas y actividades.</span></p>
+<p style="text-align: center;"><iframe width="640" height="1589" src="https://docs.google.com/forms/d/e/1FAIpQLScTBkj1Pv71yMIJnn4mq8oB09QG4A0VUpwfvMh62KyzucmIyw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781113504680-vmslq8x4r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Para finalizar, valoraré mi propia práctica docente a través del siguiente formulario. Así, al volcar los datos podré obtener información valiosa sobre qué aspectos es necesario revisar y modificar de cara a próximas tareas y actividades.</span></p>\n<p style=\"text-align: center;\"><iframe width=\"640\" height=\"1589\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScTBkj1Pv71yMIJnn4mq8oB09QG4A0VUpwfvMh62KyzucmIyw/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781114105577-4iibugarn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781114105577-4iibugarn</odePageId>
+      <odeBlockId>block-1781114109218-c75r27j4d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781114105577-4iibugarn</odePageId>
+          <odeBlockId>block-1781114109218-c75r27j4d</odeBlockId>
+          <odeIdeviceId>idevice-1781114109217-n1qo9sewh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong> María del Carmen Gálvez Molina</p>
+<p><strong>Descripción</strong>: Textos periodísticos: El reportaje. Aprendizaje de características y desarrollo de un reportaje. Creación de su propio reportaje.</p>
+<p><strong>Licencia</strong>: CC - BY - No Comercial</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781114109217-n1qo9sewh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong> María del Carmen Gálvez Molina</p>\n<p><strong>Descripción</strong>: Textos periodísticos: El reportaje. Aprendizaje de características y desarrollo de un reportaje. Creación de su propio reportaje.</p>\n<p><strong>Licencia</strong>: CC - BY - No Comercial</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781114105577-4iibugarn</odePageId>
+      <odeBlockId>block-1781196673726-315xmxe61</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781114105577-4iibugarn</odePageId>
+          <odeBlockId>block-1781196673726-315xmxe61</odeBlockId>
+          <odeIdeviceId>idevice-1781196673724-61pii1uf0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Nuestras estrellas favoritas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Aprendizaje sobre texto periodístico: el reportaje. Producción de este tipo de texto.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mª Carmen Gálvez Molina</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#0625a2;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
